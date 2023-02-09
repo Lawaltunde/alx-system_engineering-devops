@@ -12,5 +12,6 @@ The file 8-James_Bond contains a script that sets the permission to the file hel
 The file 9-John_Doe contains script that Write a script that sets the mode of the file hello to this -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello.
 The file 10-mirror_permissions contains a script that sets the mode of the file hello the same as olleh’s mode
 The file 11-directories_permissions contains a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
+The file 12-directory_permissions contains  a script that creates a directory called my_dir with permissions 751 in the working directory.
 
 
