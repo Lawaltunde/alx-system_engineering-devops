@@ -13,6 +13,6 @@ The file 9-John_Doe contains script that Write a script that sets the mode of th
 The file 10-mirror_permissions contains a script that sets the mode of the file hello the same as olleh’s mode
 The file 11-directories_permissions contains a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 The file 12-directory_permissions contains  a script that creates a directory called my_dir with permissions 751 in the working directory.
-The file 13-change_group contains a a script that changes the group owner to school for the file hello.
-
+The file 13-change_group contains a script that changes the group owner to school for the file hello.
+The file 0x01-shell_permissions contains a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 
