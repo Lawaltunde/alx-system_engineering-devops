@@ -1,3 +1,2 @@
 #!/bin/bash
 chnown -R vincent:staff _hello
-
