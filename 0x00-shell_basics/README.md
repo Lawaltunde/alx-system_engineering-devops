@@ -16,4 +16,5 @@ The file 12-directory_permissions contains  a script that creates a directory ca
 The file 13-change_group contains a script that changes the group owner to school for the file hello.
 The file 0x01-shell_permissions contains a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 The file 101-symbolic_link_permissions contains a script that changes the owner and the group owner of _hello to vincent and staff respectively.
+The file 102-if_only contains a script that changes the owner of the file hello to betty only if it is owned by the user guillaume.
 
